@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 public class BlankFragment extends Fragment {
 
     private void logd(String msg) {
-        Log.d("Bill", msg);
+        Log.d("Bill", "BlankFragment " + msg);
     }
 
     @Override
