@@ -11,7 +11,7 @@
 ### fragment onResume
 ### activity onWindowFocusChanged(true)
 
-### running
+## running
 
 ### activity onPause
 ### fragment onPause
